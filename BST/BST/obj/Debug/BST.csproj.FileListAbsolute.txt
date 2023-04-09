@@ -1,0 +1,15 @@
+C:\Users\tutko\Desktop\BST\BST\bin\Debug\BST.exe.config
+C:\Users\tutko\Desktop\BST\BST\bin\Debug\BST.exe
+C:\Users\tutko\Desktop\BST\BST\bin\Debug\BST.pdb
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST.csproj.AssemblyReference.cache
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\MainWindow.g.cs
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\App.g.cs
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST_MarkupCompile.cache
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST_MarkupCompile.lref
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\MainWindow.baml
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST.g.resources
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST.Properties.Resources.resources
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST.csproj.GenerateResource.cache
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST.exe
+C:\Users\tutko\Desktop\BST\BST\obj\Debug\BST.pdb
